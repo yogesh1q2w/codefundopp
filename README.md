@@ -68,3 +68,6 @@ N vectors of dimensionality of Y. i-th vector has the distribution of items in t
 The data collection for training the model is an issue because determining features like Water reserve, food reserve is difficult. We can use legitimate approximations for such features.
 
 On every application of model, we can use reinforcement learning techniques for improvement of model's performance.
+
+Due to limited experience in Machine Learning and unavailablity of Training Data, we faced issues in Model Selection for the problem and after trying Linear Regression Models, we got pretty poor performance of model due to very limited data.
+Hence, we submit one page slide with video explaining our idea.
